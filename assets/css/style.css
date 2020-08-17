@@ -1,0 +1,59 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://wallpaperaccess.com/download/8k-minimalist-701802")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.top-nav-collapse {
+  background-color: #24355C;
+}
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background-color: #24355C;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+    background-color: #24355C;
+  }
+}
+
+.navbar1 {
+  background-color: #24355C;
+}
+ .cp1 {
+   padding-left: 20%;
+   padding-right: 20%;
+
+   
+ }
+
+ .cp2 {
+  padding-left: 720px;
+  padding-right: 500px;
+ }
+
+ .cp3 {
+   padding-left: 700px;
+ }
+
+ .cp4 { 
+  margin-left: 31%;
+  margin-right: 25%;
+ }
+
+ .cp5 {
+  margin-right: -25%
+ }
+
+ .img-circle {
+   border-radius: 1000px;
+ }
